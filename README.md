@@ -1,0 +1,2 @@
+# migumind.com
+website
