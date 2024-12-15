@@ -1,2 +1,2 @@
-# migumind.com
+# miguelweb
 website
